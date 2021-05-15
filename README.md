@@ -2,13 +2,12 @@
 
 ## Why do this challenge?
 
-I want to sharpen my skills as a frontend developer to better enable my self to flourish in market.
-Obviously building projects is the best way to learn and show off ones willingness to self learn and grow.
-This repository will show that I can code.
+I want to sharpen my skills as a frontend developer and also show prospective employers that I can work on the frontend.
+The best way to do that is by showing them samples of code and building projects, that is why I created this repository.
 
 ## The Projects
 
 ### Day One - Expanding Cards
 
-This project uses flexbox and transition in order to creating an expanding effect
-codepen link https://codepen.io/malcomebaggett/pen/dyvXXPX
+This project uses flexbox and transition in order to creating an expanding effect.
+[codepen link] https://codepen.io/malcomebaggett/pen/dyvXXPX

@@ -1,0 +1,6 @@
+[0m2021.05.15 10:58:04 INFO  Started: Metals version 0.10.2 in workspace 'C:\Users\Malcome\Desktop\50Projects50Days' for client vscode 1.50.1.[0m
+[0m2021.05.15 10:58:06 INFO  time: initialize in 2.63s[0m
+[0m2021.05.15 10:58:10 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.15 10:58:10 WARN  no build tool detected in workspace 'C:\Users\Malcome\Desktop\50Projects50Days'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+May 15, 2021 11:19:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
