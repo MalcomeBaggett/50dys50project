@@ -10,4 +10,9 @@ The best way to do that is by showing them samples of code and building projects
 ### Day One - Expanding Cards
 
 This project uses flexbox and transition in order to creating an expanding effect.
-[codepen link] https://codepen.io/malcomebaggett/pen/dyvXXPX
+https://codepen.io/malcomebaggett/pen/dyvXXPX
+
+### Day Two - Progress Tracker
+
+Cool progress tracking widget. Uses flexbox and transitions
+https://codepen.io/malcomebaggett/pen/qBrNLWj
