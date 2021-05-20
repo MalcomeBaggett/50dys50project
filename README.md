@@ -27,3 +27,8 @@ https://codepen.io/malcomebaggett/pen/ExWgwKE
 
 A search bar that expands and contracts when you click the magnifying glass
 https://codepen.io/malcomebaggett/pen/PopbNdP
+
+### Day Five - Blurred Loading
+
+By using opacity and blur I created a loading page.
+https://codepen.io/malcomebaggett/pen/ExWNJGZ
