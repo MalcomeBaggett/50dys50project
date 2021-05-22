@@ -32,3 +32,8 @@ https://codepen.io/malcomebaggett/pen/PopbNdP
 
 By using opacity and blur I created a loading page.
 https://codepen.io/malcomebaggett/pen/ExWNJGZ
+
+### Day 6 - Scroll Animation
+
+Using the inner height property on the window I trigger content boxes to appear from the left and right
+https://codepen.io/malcomebaggett/pen/KKWWRLY
